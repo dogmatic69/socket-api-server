@@ -1,0 +1,30 @@
+{
+  "name": "socket-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "bancroft": "0.0.13",
+    "bluebird": "^3.4.6",
+    "ical": "^0.5.0",
+    "ical-toolkit": "^1.0.9",
+    "jsdom": "^9.8.3",
+    "jsonfile": "^2.4.0",
+    "lodash": "^4.16.4",
+    "moment": "^2.15.1",
+    "nodejs-websocket": "^1.7.0",
+    "pg": "^6.1.0",
+    "request": "^2.75.0",
+    "socket.io": "^1.4.8",
+    "socket.io-client": "^1.4.8",
+    "sprintf": "^0.1.5",
+    "sprintf-js": "^1.0.3",
+    "tasktimer": "^1.0.0"
+  }
+}
